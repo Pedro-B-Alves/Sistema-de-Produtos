@@ -151,7 +151,7 @@ namespace Sistema_de_Produtos
                                 case 2:
                                     for (var i = 0; i < contador; i++){
                                         Console.WriteLine($"{i+1}º produto");
-                                        Console.WriteLine($"Possui o nome {nome[i]} e o preço de {preco[i]} Reais.Estando com a promoção em {promocao[i]}");
+                                        Console.WriteLine($"Possui o nome {nome[i]} e o preço é de {preco[i]} Reais.Estando com a promoção em {promocao[i]}");
                                     }
                                     break;
                                 case 0:
