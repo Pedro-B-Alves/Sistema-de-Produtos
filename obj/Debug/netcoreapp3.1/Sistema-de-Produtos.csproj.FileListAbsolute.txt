@@ -1,0 +1,13 @@
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\Sistema-de-Produtos\bin\Debug\netcoreapp3.1\Sistema-de-Produtos.exe
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\Sistema-de-Produtos\bin\Debug\netcoreapp3.1\Sistema-de-Produtos.deps.json
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\Sistema-de-Produtos\bin\Debug\netcoreapp3.1\Sistema-de-Produtos.runtimeconfig.json
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\Sistema-de-Produtos\bin\Debug\netcoreapp3.1\Sistema-de-Produtos.runtimeconfig.dev.json
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\Sistema-de-Produtos\bin\Debug\netcoreapp3.1\Sistema-de-Produtos.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\Sistema-de-Produtos\bin\Debug\netcoreapp3.1\Sistema-de-Produtos.pdb
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\Sistema-de-Produtos\obj\Debug\netcoreapp3.1\Sistema-de-Produtos.csprojAssemblyReference.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\Sistema-de-Produtos\obj\Debug\netcoreapp3.1\Sistema-de-Produtos.AssemblyInfoInputs.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\Sistema-de-Produtos\obj\Debug\netcoreapp3.1\Sistema-de-Produtos.AssemblyInfo.cs
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\Sistema-de-Produtos\obj\Debug\netcoreapp3.1\Sistema-de-Produtos.csproj.CoreCompileInputs.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\Sistema-de-Produtos\obj\Debug\netcoreapp3.1\Sistema-de-Produtos.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\Sistema-de-Produtos\obj\Debug\netcoreapp3.1\Sistema-de-Produtos.pdb
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\Sistema-de-Produtos\obj\Debug\netcoreapp3.1\Sistema-de-Produtos.genruntimeconfig.cache
